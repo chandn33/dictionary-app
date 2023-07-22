@@ -1,5 +1,16 @@
+ body {
+  background: #e7e7e7;
+  font-family: poppins, sans-serif;
+ }
+header {
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)),
+  url('../src/header-image/dictionary-header.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 120px 20px;
+}
 .App footer {
-  color: #636262;
+  color: #3b3b3b;
   font-family: courier;
   font-size: 14px;
   font-weight: bold;
@@ -8,4 +19,24 @@
 }
 h1 {
   text-transform: uppercase;
+  text-align: left;
+  padding: 0 15px;
+  color: #401cc5;
+  font-size: 30px;
+  background: #ffff; 
+  display: inline-block;
+  letter-spacing: 5px;
+  font-weight: 700;
+}
+a {
+  color: #401cc5;
+}
+@media (max-width: 700px) {
+  h1 {
+    font-size: 22px;
+  }
+  footer {
+    font-size: 12px;
+  }
+  
 }
