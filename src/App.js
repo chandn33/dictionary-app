@@ -10,7 +10,7 @@ export default function App() {
 </header>
     
     <main>
-      <Dictionary defaultKeyword="sunflower" />
+      <Dictionary defaultKeyword="forest" />
     </main>
 <hr />
     <footer>Open-source on <a href="https://github.com/chandn33/dictionary-project" target="_blank" rel="noopener noreferrer">GitHub</a> | Coded by Chandni Patel🌻</footer>
