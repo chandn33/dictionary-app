@@ -13,7 +13,7 @@ export default function App() {
       <Dictionary defaultKeyword="forest" />
     </main>
 <hr />
-    <footer>Open-source on <a href="https://github.com/chandn33/dictionary-project" target="_blank" rel="noopener noreferrer">GitHub</a> | Coded by Chandni Patel🌻</footer>
+    <footer>Open-source on <a href="https://github.com/chandn33/dictionary-app" target="_blank" rel="noopener noreferrer">GitHub</a> | Coded by Chandni Patel🌻</footer>
     </div>
     </div>
   );
